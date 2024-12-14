@@ -6,6 +6,14 @@
     /* box-sizing: border-box; */
     font-family: "Poppins", sans-serif;
 }
+
+/* body {
+    overflow: hidden;
+} */
+
+canvas {
+    display: block;
+}
 #landing-page{
     display: flex;
     justify-content: center;
