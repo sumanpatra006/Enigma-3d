@@ -1,3 +1,4 @@
+
 const container = document.getElementById('model-container-human');
 
 import * as THREE from 'three';

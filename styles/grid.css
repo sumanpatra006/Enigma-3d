@@ -7,6 +7,7 @@
     font-family: "Poppins", sans-serif;
 }
 
+
 body {
     background-color: rgb(40, 40, 40);
     overflow: hidden;
@@ -24,6 +25,7 @@ canvas{
     transform: translatex(5vw) translatey(-50vw);
     background: transparent;
     pointer-events: none;
+
 }
 #landing-page{
     display: flex;
